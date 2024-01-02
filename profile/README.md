@@ -1,7 +1,7 @@
 ## PRVault ⚒
 A platform currently in development for athletes and gym enthusiasts who are interested in tracking their progress and sharing their achievements with friends and family.
 
-Check out our [Website](https://prvault-mvp-website.vercel.app/)!
+Check out our [Website](https://prvault.pro)!
 
 <!--
 
